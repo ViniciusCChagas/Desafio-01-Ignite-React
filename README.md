@@ -3,7 +3,7 @@
 <div align="justify">
 &emsp;Neste desafio aplicamos os conceitos aprendidos no primeiro módulo do <a href="https://help.rocketseat.com.br/hc/pt-br/articles/1500003228822-O-que-%C3%A9-o-Ignite-" target="_blank">Ignite</a>,
 manipulamos estados de uma aplicação simples de ToDo, onde deveriamos implementar as funcionalidades de: adicionar uma nova tarefa, remover uma tarefa e marcar e desmarcar uma tarefa como concluída. <br>
-&emsp;Para isso, utilizamos o Hook "useState()" aplicando o conceito de <a href="https://segredo.dev/o-que-e-imutabilidade/" target="_blank">Imutabilidade</a> e por fim utilizando o a utilizamos a biblioteca de testes <a href="https://jestjs.io/" target="_blank">Jest</a> para testarmos a aplicação.
+&emsp;Para isso, utilizamos o Hook "useState()" aplicando o conceito de <a href="https://segredo.dev/o-que-e-imutabilidade/" target="_blank">Imutabilidade</a> e por fim utilizamos a biblioteca de testes <a href="https://jestjs.io/" target="_blank">Jest</a> para testarmos a aplicação.
 
 </div>
 <br/>
