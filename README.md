@@ -34,7 +34,7 @@ $ npm run dev
 # ou
 $ yarn dev
 ```
-Após isso podemos acessar o App no endereço: http://localhost:3000.
+Após isso podemos acessar o App no endereço: http://localhost:8080.
 
 ### 4. Testar a aplicação
 Podemos também testar a nossa aplicação, com os comandos:
